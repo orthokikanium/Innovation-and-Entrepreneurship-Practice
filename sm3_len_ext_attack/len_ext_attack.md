@@ -53,4 +53,4 @@ sm3_len_ext_attack.py 实现初始消息为“Hello SDU CST!20220718”、附加
 
 ## 实验结果展示
 变量已定义完成，直接运行代码即可进行攻击检验；代码运行结果如下：
-![图片未加载](URL "SM3长度扩展攻击展示")
+![图片未加载](https://github.com/l921n/chaos/blob/main/01.png "SM3长度扩展攻击展示")
