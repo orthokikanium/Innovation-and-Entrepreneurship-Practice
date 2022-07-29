@@ -114,7 +114,7 @@
 
 **C.运行结果截图**：
 
-![image-20220729160632663](C:\Users\Hyanice\AppData\Roaming\Typora\typora-user-images\image-20220729160632663.png)
+![MerkleTree](https://github.com/Hyan1ce/image/blob/main/Merkle%20Tree.png)
 
 **D.贡献者**：[Hyan1ce](https://github.com/Hyan1ce)  胡焱彬
 
@@ -138,7 +138,7 @@
 
 **C.运行结果截图**：
 
-![image-20220729162505740](C:\Users\Hyanice\AppData\Roaming\Typora\typora-user-images\image-20220729162505740.png)
+![SM3result](https://github.com/Hyan1ce/image/blob/main/SM3%20result.png)
 
 **D.贡献者**：[Hyan1ce](https://github.com/Hyan1ce)  胡焱彬
 
