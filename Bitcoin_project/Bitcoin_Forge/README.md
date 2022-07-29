@@ -16,7 +16,17 @@ github：orthokikanium
 
 
 ### 伪造签名
-![image](https://user-images.githubusercontent.com/91087648/181808108-08633a77-264c-4bcd-af11-5bdf47d8c66e.png)
+概率性算法，通过random.randrange(1, n - 1)随机选择a、b，计算签名r1、s1。
+
+a= random.randrange(1, n - 1)
+
+b = random.randrange(1, n - 1)
+
+r1 = add(mul(a, G), mul(b, P))[0]
+
+e1 = (r1 * a * Euc(b, n)) % n
+
+s1 = (r1 * Euc(b, n)) % n
 
 
 # 运行指导
