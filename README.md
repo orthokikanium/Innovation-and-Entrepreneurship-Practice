@@ -114,7 +114,7 @@
 
 **C.运行结果截图**：
 
-![MerkleTree](https://github.com/Hyan1ce/image/blob/main/Merkle%20Tree.png)
+![MerkleTree](https://github.com/Hyan1ce/image/blob/main/Merkle%20Tree.png "MerkleTree")
 
 **D.贡献者**：[Hyan1ce](https://github.com/Hyan1ce)  胡焱彬
 
@@ -122,7 +122,7 @@
 
 ### **MerkleTree.cpp**
 
-**A.代码说明**：**Project: Impl Merkle Tree following RFC6962**
+**A.代码说明:Project: Impl Merkle Tree following RFC6962**
 
 1. 首先定义Block结构体，作为区块；之后**利用随机数函数生成区块的内容(int)，用来模拟待Hash的值**
 
@@ -138,7 +138,7 @@
 
 **C.运行结果截图**：
 
-![SM3result](https://github.com/Hyan1ce/image/blob/main/SM3%20result.png)
+![SM3result](https://github.com/Hyan1ce/image/blob/main/SM3%20result.png "SM3result")
 
 **D.贡献者**：[Hyan1ce](https://github.com/Hyan1ce)  胡焱彬
 
