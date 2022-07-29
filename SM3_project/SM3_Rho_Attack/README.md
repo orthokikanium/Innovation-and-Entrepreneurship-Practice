@@ -1,4 +1,4 @@
-# SM3：naïve birthday attack
+# SM3：Rho attack
 
 Project: implement the Rho method of reduced SM3
 
@@ -16,7 +16,7 @@ github：orthokikanium
 # 运行截图
 
 
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/91087648/181786661-acd43c20-2f36-47e4-b7ba-aa35942c1ccb.png">
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/91087648/181790055-6e0431fe-e464-4420-8581-5c18f3d408dc.png">
 
 当碰撞的bit数增大时，算法运行时间也增大。
 
