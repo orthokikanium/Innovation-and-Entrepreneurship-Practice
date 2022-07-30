@@ -31,7 +31,7 @@
 
 |  姓名  |     学号     |                     Github id                     |
 | :----: | :----------: | :-----------------------------------------------: |
-| 李晨漪 |              | [orthokikanium](https://github.com/orthokikanium) |
+| 李晨漪 | 202000210103 | [orthokikanium](https://github.com/orthokikanium) |
 | 李丽娜 |              |         [l921n](https://github.com/l921n)         |
 | 赵欣宇 |              |                                                   |
 | 胡焱彬 | 202000210013 |       [Hyan1ce](https://github.com/Hyan1ce)       |
@@ -64,6 +64,37 @@
 
    > ==完成人：==
 
+4.**Project: implement the naïve birthday attack of reduced SM3**
+> 完成人：orthokikanium 李晨漪
+
+5.**Project: implement the Rho method of reduced SM3**
+> 完成人：orthokikanium 李晨漪
+
+6.**Project: report on the application of this deduce technique in Ethereum with ECDSA**
+> 完成人：orthokikanium 李晨漪
+
+7.**Project: impl sm2 with RFC6979**
+> 完成人：orthokikanium 李晨漪
+
+8. **Project: verify the above pitfalls with proof-of-concept code**
+> 完成人：orthokikanium 李晨漪
+
+
+9.**Project: Implement the above ECMH scheme**
+> 完成人：orthokikanium 李晨漪
+
+
+10.**Project: forge a signature to pretend that you are Satoshi**
+> 完成人：orthokikanium 李晨漪
+
+
+11.**Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
+Eth-public**
+> 完成人：orthokikanium 李晨漪
+
+
+12.**Project: research report on MP**
+> 完成人：orthokikanium 李晨漪
 
 
 ## 3.项目清单
@@ -203,3 +234,32 @@
 ![01.png](https://github.com/l921n/chaos/blob/main/01.png "SM3长度扩展攻击展示") 
 
 **D.贡献者**：[l921n](https://github.com/l921n)  李丽娜
+
+### 部分项目清单，说明见链接中README文件
+由于篇幅较长，具体项目说明见链接README文件
+
+完成人：orthokikanium 李晨漪
+
+#### PS
+push时间比较集中是写README文件和添加截图将所有项目再整理了下，git push又一直报错交不上，就重新clone了一遍再提交...
+
+#### Bitcoin_Forge
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/Bitcoin_project/Bitcoin_Forge
+#### Bitcoin_public_send_tx
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/Bitcoin_project/Bitcoin_public_send_tx
+#### MPT
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/Bitcoin_project/MPT
+#### Deduce
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM2_project/Deduce
+#### ECMH_SM2
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM2_project/ECMH_SM2
+#### impl_SM2_RFC6979
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM2_project/impl_SM2_RFC6979
+#### SM2_pit
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM2_project/SM2_pit
+#### SM3_Birthday_Attack
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Birthday_Attack
+#### SM3_Rho_Attack
+https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Rho_Attack
+
+
