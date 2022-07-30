@@ -1,24 +1,24 @@
-# SM3：naïve birthday attack
+# SM3：Rho attack
 
-Project: implement the naïve birthday attack of reduced SM3
-
-# 项目简介
-
-
+Project: implement the Rho method of reduced SM3
 
 #  项目成员
 
 李晨漪
 
-学号：202000210103
-
-github账号：orthokikanium
-
+github：orthokikanium
+# 代码说明
+## 思路
+通过RHO算法，不断迭代，可能成环，寻找碰撞。
 # 运行指导
-
 可直接运行。
 
 # 运行截图
 
-![img](file:///C:\Users\huawei\AppData\Local\Temp\ksohtml22292\wps1.jpg) 
+
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/91087648/181790055-6e0431fe-e464-4420-8581-5c18f3d408dc.png">
+
+当碰撞的bit数增大时，算法运行时间也增大。
+
+
 
